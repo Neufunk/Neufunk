@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Neufunk
-- 👀 I’m interested in AI/Machine Learning and Linux dev
+- 👀 I’m interested in Cybersecurity, Pentesting, AI/Machine Learning and Linux dev
 - 🌱 I’m currently taking a CyberSecurity degree.
 - 💞️ I’m looking to collaborate on /
 - 📫 How to reach me : Well, Github is a good start.
